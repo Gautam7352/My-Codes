@@ -1,0 +1,12 @@
+Final Keyword:
+
+You can assign final keyword to variables, classes and methods
+
+1. A final variable cannot be changed
+	-Can be initialized only once
+	-It needs to be initialized in class variables but not for local variables else compile time error
+	-Convention is to name as underscore separated capital letters.
+	--Reference of a final object cannot be changed but internal variable under objects can be modified.
+
+2. A final method cannot be overridden 
+3. A final class cannot be extended
